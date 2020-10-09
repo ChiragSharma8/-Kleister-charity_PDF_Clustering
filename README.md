@@ -1,4 +1,4 @@
-Provided "in.tsv" contain 4 results from 4 different approaches to extract data from pdf.
+Provided "in.tsv" contain 4 results from 4 different approaches to extract data from Kleister-Charity pdfs.
 
 Using K-means to cluster the provided dataset using 'Text_Best' approach from all four different types.
 
